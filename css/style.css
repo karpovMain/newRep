@@ -273,11 +273,17 @@ body {
   font-weight: 400;
   font-size: 40px;
   color: #EAEAEA;
+
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .group-text-modules {
   margin: 0;
   height: 300px;
+
+  position: relative;
 }
 
 .show-more-modules {
